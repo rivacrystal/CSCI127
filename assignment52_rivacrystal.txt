@@ -1,0 +1,11 @@
+#Name: Riva Crystal
+#Email: riva.crystal@gmail.com
+#Date: November 22, 2021
+#This program uses some UNIX commands
+
+git clone https://github.com/HunterCSci127/CSci127
+cd CSci127
+mkdir myprojectfiles
+mv nestingPolygons.py myprojectfiles
+mkdir pictures
+mv *.png pictures

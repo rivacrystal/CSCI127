@@ -1,0 +1,7 @@
+#Name: Riva Crystal
+#Email: riva.crystal@gmail.com
+#Date: October 14, 2021
+#This program does some Unix shell commands
+
+echo "Hello CSCI127 Students!"
+echo "$USER is learning shell scripts!"

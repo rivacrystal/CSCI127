@@ -1,0 +1,6 @@
+#Name: Riva Crystal
+#Email: riva.crystal@gmail.com
+#Date: October 9, 2021
+#This program shows the inputs of a circuit
+
+out = (not in1 and not in2) or (in1 and in2)

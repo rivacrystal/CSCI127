@@ -1,0 +1,15 @@
+#Name: Riva Crystal
+#Email: riva.crystal@gmail.com
+#Date: November 12, 2021
+#This program makes a Unix shell script
+
+mkdir csci127
+mkdir csci127/images
+mkdir csci127/files
+mkdir csci127/images/png
+mkdir csci127/images/jpg
+mkdir csci127/images/gif
+mkdir csci127/files/csv
+mkdir csci127/files/txt
+cd files
+pwd
